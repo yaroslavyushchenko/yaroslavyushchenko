@@ -67,7 +67,7 @@ Still experimental — but fun.
 
 ### 💻 Hardware
 
-- 13” MacBook Air M1, 8 GB (2021) — runs .NET via Docker like a champ  
+- 13” MacBook Air M1, 8 GB (2021)
 - iPad 9th Gen — *shockingly* well as second screen using Sidecar (wireless)
 
 ### 🛠 Development Tools
