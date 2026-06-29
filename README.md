@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I’m Yaroslav Yushchenko. Building stable and maintainable .NET Core backends for US businesses,  
+I’m Yaroslav Yushchenko. Building stable and maintainable .NET Core backends for US companies,  
 with deep experience in monolithic architectures, databases, logging, and observability.  
 Also skilled in Angular and Next.js, but primarily focused on backend engineering.
 
