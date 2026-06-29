@@ -26,6 +26,8 @@ Also skilled in Angular and Next.js, but primarily focused on backend engineerin
 [![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/)
 
 ### Frontend  
@@ -45,22 +47,13 @@ Also skilled in Angular and Next.js, but primarily focused on backend engineerin
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![JetBrains](https://img.shields.io/badge/JetBrains_Plugins-000000?style=flat&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/)
+[![Stm32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 ## Latest Article
 
 📝 [**Realtime Twilio Mu‑Law to Azure STT in .NET with FFmpeg**](https://yaroslavyushchenko.com/articles/realtime-audio-conversion)  
 Optimized pipeline converting Twilio raw μ‑law audio to Azure Speech‑to‑Text in real time using FFmpeg — no quality loss or latency.
-
-
-
-## Project
-
-🎧 **Sound Peek**  
-JetBrains plugin to preview audio variables directly in the IDE.  
-Still experimental — but fun.  
-→ [More projects](https://yaroslavyushchenko.com/projects)
-
 
 
 ## 🧰 Uses
