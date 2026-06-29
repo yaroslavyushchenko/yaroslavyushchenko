@@ -21,6 +21,7 @@ Also skilled in Angular and Next.js, but primarily focused on backend engineerin
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)](https://en.cppreference.com/c/)
 
 ### Backend  
 [![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
