@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I’m Yaroslav Yushchenko. Building stable and maintainable .NET Core backends,  
+I’m Yaroslav Yushchenko. Building stable and maintainable .NET backends,  
 with deep experience in monolithic architectures, databases, logging, and observability.  
 Also skilled in Angular and Next.js, but primarily focused on backend engineering.
 
@@ -24,7 +24,7 @@ Also skilled in Angular and Next.js, but primarily focused on backend engineerin
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)](https://en.cppreference.com/c/)
 
 ### Backend  
-[![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
@@ -54,7 +54,7 @@ Also skilled in Angular and Next.js, but primarily focused on backend engineerin
 ## Latest Article
 
 📝 [**Realtime Twilio Mu‑Law to Azure STT in .NET with FFmpeg**](https://yaroslavyushchenko.com/articles/realtime-audio-conversion)  
-Optimized pipeline converting Twilio raw μ‑law audio to Azure Speech‑to‑Text in real time using FFmpeg — no quality loss or latency.
+Optimized pipeline converting Twilio raw μ‑law audio to Azure Speech‑to‑Text in real time using FFmpeg, with no quality loss or latency.
 
 
 ## 🧰 Uses
@@ -62,12 +62,12 @@ Optimized pipeline converting Twilio raw μ‑law audio to Azure Speech‑to‑T
 ### 💻 Hardware
 
 - 13” MacBook Air M1, 8 GB (2021)
-- iPad 9th Gen — *shockingly* well as second screen using Sidecar (wireless)
+- iPad 9th Gen: *shockingly* good as a second screen with Sidecar (wireless)
 
 ### 🛠 Development Tools
 
-- JetBrains Rider — primary IDE
-- DataGrip — smart SQL client
-- Azure Storage Explorer — queues, blobs, tables
-- Vim — terminal editing
-- FFmpeg / ImageMagick — for image/audio automation
+- JetBrains Rider: primary IDE
+- DataGrip: smart SQL client
+- Azure Storage Explorer: queues, blobs, tables
+- Vim: terminal editing
+- FFmpeg / ImageMagick: image/audio automation
